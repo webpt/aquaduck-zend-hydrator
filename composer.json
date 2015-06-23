@@ -14,7 +14,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@gitlab.webpt.com:niagara/aquaduck.git"
+            "url": "http://github.com/webpt/aquaduck.git"
         }
     ],
     "require": {
