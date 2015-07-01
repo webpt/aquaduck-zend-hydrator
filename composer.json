@@ -1,5 +1,6 @@
 {
     "name": "webpt/aquaduck-zend-hydrator",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Tim Klever",
@@ -18,7 +19,7 @@
         }
     ],
     "require": {
-        "webpt/aquaduck": "^1.0@dev",
+        "webpt/aquaduck": "0.1",
         "zendframework/zend-stdlib": "^2"
     },
     "require-dev": {
