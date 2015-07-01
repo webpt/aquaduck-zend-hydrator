@@ -12,12 +12,6 @@
             "Webpt\\Aquaduck\\Zend\\Hydrator\\": "src/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "http://github.com/webpt/aquaduck.git"
-        }
-    ],
     "require": {
         "webpt/aquaduck": "0.1",
         "zendframework/zend-stdlib": "^2"
